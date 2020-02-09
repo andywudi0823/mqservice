@@ -1,5 +1,5 @@
 {
-    "name": "mq/mqservice",
+    "name": "muqee/mqservice",
     "description": "php composer service",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "MQ\\MQService\\": "src/"
+            "MUQEE\\MQService\\": "src/"
         }
     },
     "require": {}

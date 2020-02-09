@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'MQ\\MQService\\' => array($baseDir . '/src'),
+    'MUQEE\\MQService\\' => array($baseDir . '/src'),
 );

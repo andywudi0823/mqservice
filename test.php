@@ -1,6 +1,6 @@
 <?php
 require_once 'vendor/autoload.php';
-use MQ\MQService\Service;
+use MUQEE\MQService\Service;
 $obj = new Service();
 
 $msg = $obj->hello();

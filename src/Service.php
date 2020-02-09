@@ -1,5 +1,5 @@
 <?php
-namespace MQ\MQService;
+namespace MUQEE\MQService;
 
 class Service{
     public function __construct(){

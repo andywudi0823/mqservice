@@ -9,12 +9,12 @@ class ComposerStaticInit6015178a5af8222b19100a7646704410
     public static $prefixLengthsPsr4 = array (
         'M' => 
         array (
-            'MQ\\MQService\\' => 13,
+            'MUQEE\\MQService\\' => 16,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'MQ\\MQService\\' => 
+        'MUQEE\\MQService\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
