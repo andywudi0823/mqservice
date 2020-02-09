@@ -1,0 +1,19 @@
+{
+    "name": "mq/mqservice",
+    "description": "php composer service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andywu",
+            "email": "andywu0823@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "MQ\\MQService\\": "src/"
+        }
+    },
+    "require": {}
+}
